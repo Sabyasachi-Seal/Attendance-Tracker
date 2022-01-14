@@ -15,7 +15,7 @@
 
 <hr>
 
-## Make sure to go to File and make a copy(Dive, GitHub or anything) before Using. Otherwise you will not be able to Run the Code.
+## Make sure to go to File and make a copy (Drive, GitHub or anything) before Using. Otherwise you will not be able to Run the Code.
 
 <hr>
 
